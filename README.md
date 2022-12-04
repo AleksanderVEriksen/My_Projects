@@ -10,6 +10,10 @@ A repository containing my projects from school at a bachelor degree level and a
 
 * Idea paper research
 
+[Folder](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Idea%20paper%20research)
+
 * Machine learning
+
+[Folder](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Jupyter%20Notebook/Machine%20learning)
 
 
