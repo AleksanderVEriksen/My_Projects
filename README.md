@@ -16,7 +16,7 @@ A repository containing my projects from school at a bachelor degree level and a
 
 - [Folder](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Jupyter%20Notebook/Machine%20learning)
 
-### CPS
+### Cps
 
 - [Folder](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Jupyter%20Notebook/CPS)
 
