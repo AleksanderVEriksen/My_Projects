@@ -10,7 +10,6 @@ import gradio
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-#= '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'
 messages = []
 
 
