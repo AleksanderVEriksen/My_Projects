@@ -13,4 +13,4 @@ A repository containing my projects from school at a bachelor degree level and a
 
 ## Own work
 
-- [Folder]()
+- [Folder](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Own_Work/)
