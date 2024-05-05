@@ -4,7 +4,7 @@ A repository containing my projects from school at a bachelor degree level and a
 
 ## Bachelor degree level
 
-- [Bachelor portfolio](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Bachelor_portfolio/)
+### [Bachelor portfolio](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Bachelor_portfolio/)
 
 ## Master degree level
 
@@ -13,4 +13,4 @@ A repository containing my projects from school at a bachelor degree level and a
 
 ## Own work
 
-- [My personal work](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Own_Work/)
+### [My personal work](https://github.com/AleksanderVEriksen/My_Projects/tree/main/Own_Work/)
