@@ -1,1 +1,1 @@
-Projects from master level education in courses "Introduction to machine learning" and "Advanced Machine learning".
+Projects from master level education in courses "Introduction to machine learning", "Applied computer science project" and "Advanced Machine learning".
